@@ -3,15 +3,15 @@
 
 
 #### Home
-![](images/gc_app01.png)
+![](1.png)
 
 
 #### Prediction
-![](images/gc_app02.png)
+![](2.png)
 
 
 #### Prediction
-![](images/gc_app04.png)
+![](3.png)
 
 
 #### By
