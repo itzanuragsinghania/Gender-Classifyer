@@ -6,3 +6,4 @@ pandas>=0.19
 streamlit
 opencv-python
 opencv-python-headless==4.2.0.32
+joblib
