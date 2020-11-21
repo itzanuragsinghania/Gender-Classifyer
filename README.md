@@ -1,9 +1,9 @@
-# Not Ready Yet
-### Gender Classifier ML App with Streamlit
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
+# Gender Classifyer ML App with Streamlit
+
+
+
+
 
 
 
@@ -11,15 +11,15 @@
 <br />
 <p align="center">
   <a href="https://github.com/roshanlam/ReadMeTemplate/">
-    <img src="./logo.png" alt="Logo" width="80" height="80">
+    <img src="./logo.png" alt="Logo" width="160" height="160">
   </a>
 
-  <h3 align="center">Read Me Template</h3>
+  <h3 align="center">STREAMLIT</h3>
 
   <p align="center">
-    A Read Me template for your projects!
+    Using Streamlit!
     <br />
-    <a href="https://github.com/roshanlam/ReadMeTemplate/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/itzanuragsinghania?tab=repositories"><strong></strong></a>
     <br />
     <br />
     <a href="https://share.streamlit.io/itzanuragsinghania/gender-classifyer/main/app.py">View Demo</a>
@@ -39,10 +39,7 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
 * [Usage](#usage)
-* [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
@@ -53,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 There are many great README templates available on GitHub, however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
@@ -68,59 +65,30 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Streamlit](https://www.streamlit.io/)
+* [Streamlit Sharing](https://www.streamlit.io/sharing-sign-up)
+* [Python](https://www.python.org/)
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+1. Fork this repository.
+2. Give me a star. 
+3. Follow me.
+4. Sign up for [Streamlit](https://www.streamlit.io/)
+6. Request for [Streamlit Sharing](https://www.streamlit.io/sharing-sign-up)
+7. Your Github Email must match the Streamlit email.
+8. For More [STEPS](https://blog.streamlit.io/introducing-streamlit-sharing/)
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-```sh
-git clone https://github.com/your_username_/Project-Name.git
-```
-3. Install NPM packages
-```sh
-npm install
-```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
-
+Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/roshanlam/ReadMeTemplate/issues) for a list of proposed features (and known issues).
-
-
+The project can be used to predict gender on the basis of names.
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -143,47 +111,32 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-Anurag Singhania- [@cursed_by_hatred](https://www.instagram.com/cursed_by_hatred/) - anuragsinghania235@gmail.com
 
-Project Link: [Gender-Classifyer](https://github.com/itzanuragsinghania/Gender-Classifyer)
+## Contact
+
+LinkedIn- [Anurag Singhania](https://www.linkedin.com/in/anurag-singhania-39623217b/)
+
+Instagram- [@cursed_by_hatred](https://www.instagram.com/cursed_by_hatred/) - 
+
+Gmail-[Anurag Singhania](anuragsinghania235@gmail.com)
+
+Repo  Link: [Gender-Classifyer](https://github.com/itzanuragsinghania/Gender-Classifyer)
+
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* blah blah blah....
+* YouTube-[JCharisTech & J-Secur1ty](https://www.youtube.com/channel/UC2wMHF4HBkTMGLsvZAIWzRg)
+* Github-[JCharis](https://github.com/Jcharis)
 
 
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/roshanlam/ReadMeTemplate?style=for-the-badge
-[forks-url]: https://github.com/roshanlam/ReadMeTemplate/network/members
-[stars-shield]: https://img.shields.io/github/stars/roshanlam/ReadMeTemplate?style=for-the-badge
-[stars-url]: https://github.com/roshanlam/ReadMeTemplate/stargazers
-[issues-shield]: https://img.shields.io/github/issues/roshanlam/ReadMeTemplate?style=for-the-badge
-[issues-url]: https://github.com/roshanlam/ReadMeTemplate/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/roshan-lamichhane
-
-#### Home
-![](1.png)
-
-
-#### Prediction
-![](2.png)
-
-
-#### Prediction
-![](3.png)
-
-
-#### By
+## By
 + [Anurag Singhania](https://github.com/itzanuragsinghania)
+
+
+
+
+
+
+
