@@ -35,7 +35,7 @@ def load_images(file_name):
 
 
 def main():
-	"""Gender Classifier App
+	"""Gender Classifyer App
 	Using Machine Learning and Streamlit
 
 	"""
@@ -43,7 +43,7 @@ def main():
 	st.title("Gender Classifyer")
 	html_temp = """
 	<div style="background-color:slateblue;padding:10px">
-	<h2 style="color:white;text-align:center;">Streamlit ML App </h2>
+	<h2 style="color:white;text-align:center;">StreamLIT ML App </h2>
 	</div>
 
 	"""
