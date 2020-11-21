@@ -68,8 +68,8 @@ def main():
 
 	if st.button("About"):
 
-		st.text("Jesus Saves @JCharisTech")
-		st.text("By Jesse E.Agbe(JCharis)")
+		st.text("Designed by:")
+		st.text("Anurag Singhania")
 		st.text("Built with Streamlit")
 
 
