@@ -56,7 +56,7 @@ This is a  WebApp made using Machine Learning Models mainly using  NaiveBayes mo
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * It might help in the long run.
-* You should element DIY principles to the rest of your life :smile:
+* You should Impelement DIY principles to the rest of your life :smile:
 
 The webapp inputs a Name and try's to guess the gender of the name , for which has been trained in a dataset of names.
 
