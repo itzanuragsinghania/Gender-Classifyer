@@ -1,3 +1,4 @@
+# Not Ready Yet
 ### Gender Classifier ML App with Streamlit
 
 
@@ -14,5 +15,4 @@
 
 
 #### By
-+ Jesse E.Agbe(JCharis)
-+ Jesus Saves@[JCharisTech](https://jcharistech.com)
++ [Anurag Singhania](https://github.com/itzanuragsinghania)
