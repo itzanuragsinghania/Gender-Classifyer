@@ -133,6 +133,7 @@ Repo  Link: [Gender-Classifyer](https://github.com/itzanuragsinghania/Gender-Cla
 
 ## By
 + [Anurag Singhania](https://github.com/itzanuragsinghania)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?logo=paypal&style=flat-square)](https://www.paypal.com/paypalme/dracarysinc)&nbsp;
 
 
 
